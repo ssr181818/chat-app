@@ -1,3 +1,4 @@
 # chat-app
-started a new project
-vivek is author
+started a new project.
+<br>
+sooraj is author.
